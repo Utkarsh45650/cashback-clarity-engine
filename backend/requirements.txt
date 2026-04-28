@@ -1,7 +1,15 @@
+# Web Framework
 fastapi==0.110.0
 uvicorn==0.29.0
-requests==2.31.0
-sentence-transformers==2.6.1
-faiss-cpu==1.8.0
-pydantic==2.6.4
 python-multipart==0.0.6
+
+# Data Validation
+pydantic==2.6.4
+
+# HTTP & LLM Integration
+requests==2.31.0
+
+# Vector Database & Embeddings
+numpy==1.24.3
+faiss-cpu==1.8.0
+sentence-transformers==2.6.1
