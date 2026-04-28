@@ -1,0 +1,10 @@
+# Frontend .gitignore
+.DS_Store
+*.sln
+*.sw?
+*.suo
+.idea/
+dist/
+dist-ssr/
+coverage/
+*.local
