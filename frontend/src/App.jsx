@@ -103,7 +103,7 @@ function App() {
             value={formData.amount}
             onChange={handleInputChange}
             min="1"
-            step="10"
+            step="0.01"
             required
           />
         </div>
